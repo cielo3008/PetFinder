@@ -1,0 +1,28 @@
+
+
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+.navbar{
+ padding: 0px!important;
+ background-color: white;
+}
+
+.subheader-nav{
+	background-color: #f5faf0;
+	padding: 15px;
+}
+
+.buscarperdido{
+background-color: red!important;
+}
+
+.header1{
+	padding: 50px;
+}
